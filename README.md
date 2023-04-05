@@ -88,7 +88,7 @@
 > - 딥러닝, 머신러닝 모델 생성 담당 (코드 작성)
 > 
 > **결과물**
-> - 보다 상세한 설명은 링크 참조 : [https://blog.naver.com/2radg_y/222983496870]https://blog.naver.com/2radg_y/222983496870
+> - 보다 상세한 설명은 링크 참조 : [https://blog.naver.com/2radg_y/222983496870](https://blog.naver.com/2radg_y/222983496870)
 
 ## **🔗 link**
 > **링크:** [https://blog.naver.com/2radg_y](https://blog.naver.com/2radg_y)
