@@ -65,7 +65,7 @@
 > - #### 건강보험 가입자일수록,  만성질환을 갖고 있을수록 총 진료비 지출이 증가하는 것으로 나타났음
 >
 > **주요 개념**
-> - PSM (Propensity Score Matching) (링크만들기)
+> - PSM (Propensity Score Matching) : [https://github.com/radgy2/PSM](https://github.com/radgy2/PSM)
 > 
 > **결과물**
 > - [65세 이상 노년의 성향점수 매칭을 통한 우울이 의료서비스 이용에 미치는 영향분석.pdf](https://github.com/radgy2/Portfolio/files/11158862/65.pdf)
@@ -92,4 +92,5 @@
 
 ## **🔗 link**
 > **링크:** [https://blog.naver.com/2radg_y](https://blog.naver.com/2radg_y)
-
+>
+> **이메일:** 2radg_y@naver.com
