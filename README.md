@@ -22,6 +22,8 @@
 > - 수원대학교 데이터과학연구소에서 실시한 제 1회 데이터분석 경진대회에 참가하여 1등(대상) 수상
 
 ## **💼 Career**
+### ** (주)라임솔루션-인공지능사업본부(사원) (2023.06~ing)**
+> [인공지능 학습용 데이터 구축 사업-말 부위 식별 및 이상상태 진단 이미지 데이터 구축]
 
 ## **🛠 stack**
 > <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
