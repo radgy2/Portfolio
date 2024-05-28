@@ -3,7 +3,7 @@
 ## **📝 Index**
 - 🎓 [Education](#-education)
 - 🏆 [Experience](#-experience)
-- 💼 [Career]
+- 💼 [Career](#-Career)
 - 🛠 [Stack](#-stack)
 - 💻 [Project](#-project)
 - 🔗 [Link](#-link)
@@ -20,6 +20,8 @@
 > - 여러 AI 경진대회 솔루션에 사용된 다양한 데이터 전처리 기법부터 모델 생성, 최적화까지 직접 구현해보는 시간을 가짐
 ### **2. 교내 데이터분석 경진대회 수상 경험**
 > - 수원대학교 데이터과학연구소에서 실시한 제 1회 데이터분석 경진대회에 참가하여 1등(대상) 수상
+
+## **💼 Career**
 
 ## **🛠 stack**
 > <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
