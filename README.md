@@ -121,6 +121,5 @@
 > - 보다 상세한 설명은 링크 참조 : [https://blog.naver.com/2radg_y/222983496870](https://blog.naver.com/2radg_y/222983496870)
 
 ## **🔗 link**
-> **링크:** [https://blog.naver.com/2radg_y](https://blog.naver.com/2radg_y)
->
+> **링크:** [[https://blog.naver.com/2radg_y](https://ejji.tistory.com/)]
 > **이메일:** 2radg_y@naver.com
