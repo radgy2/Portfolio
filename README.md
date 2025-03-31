@@ -24,6 +24,7 @@
 ## **💼 Career**
 ### (주)라임솔루션-인공지능사업본부(주임연구원) (2023.06~ing)
 
+
  **1.인공지능 학습용 데이터 구축 사업  - 말(馬) 부위 식별 및 이상상태 진단 이미지 데이터 (2023.07 ~ 2023.12)**
  
  **개요**
@@ -33,6 +34,7 @@
  **담당업무**
 > - 이미지 데이터를 효율적으로 처리하기 위해 수집, 전처리 로직을 개발하고 MariaDB로 저장 관리 체계 구축.
 > - 데이터베이스 최적화로 정합성을 유지하며 모델 학습에 필요한 정보 제공
+> - 
 
  **2.상표 데이터 수집 및 관리 시스템 구축 (2024.09 ~ 2025.03)**
  
@@ -43,6 +45,7 @@
  **담당업무**
 > - 실시간 데이터 수집 및 자동화 프로세스 기능 구현
 > - MariaDB와 MongoDB를 활용한 데이터 저장 및 관리 체계 구축 및데이터베이스 튜닝을 통해 조회 속도 향상
+> - 
 
  **3. 수산물 수입 데이터 분석 플랫폼 개발 (2025.02 ~ 2025.03)**
  
@@ -55,7 +58,7 @@
 > - API 최적화 및 대용량 데이터 처리 로직 개선을 통해 성능 향상
 
 ## **🛠 stack**
-> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003B57?style=for-the-badge&logo=MariaDB&logoColor=white"> <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git
 
 ## **💻 project**
 ### **1. 머신러닝 회귀 기반 농업인 손상자 수 추정을 위한 빅데이터 분석** 
